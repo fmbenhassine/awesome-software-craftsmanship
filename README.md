@@ -1,4 +1,4 @@
-# Awesome Software Craftsmanship
+# Awesome Software Craftsmanship [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > "As aspiring Software Craftsmen we are raising the bar of professional software development by **practicing it** and **helping others learn the craft**", [The software craftsmanship manifesto](http://manifesto.softwarecraftsmanship.org)
 
