@@ -1,6 +1,8 @@
-> "As aspiring Software Craftsmen we are raising the bar of professional software development by practicing it and helping others learn the craft", [The software craftsmanship manifesto](http://manifesto.softwarecraftsmanship.org)
+# Awesome Software Craftsmanship
 
-This repository is a crafted list of awesome *Software craftsmanship* resources to help others learn the craft.
+> "As aspiring Software Craftsmen we are raising the bar of professional software development by **practicing it** and **helping others learn the craft**", [The software craftsmanship manifesto](http://manifesto.softwarecraftsmanship.org)
+
+Inspired by [@sindresorhus](https://github.com/sindresorhus)' [awesome](https://github.com/sindresorhus/awesome), this repository is a crafted list of awesome *Software craftsmanship* resources to help others learn the craft.
 This should be a community driven effort to spread the manifesto and show respect to software development professionals.
 
 ### :books: Books
