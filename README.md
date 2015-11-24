@@ -38,7 +38,7 @@ This should be a community driven effort to spread the manifesto and show respec
 * [On Technical Debt and Craftsmanship - Chris ODell](http://foxdellfolio.com/on-technical-debt-and-craftsmanship/)
 * [Programming is not a craft - Dan North](http://dannorth.net/2011/01/11/programming-is-not-a-craft/)
 * [Enough With The Software Holy Wars! - Jason Gorman](http://www.codemanship.co.uk/parlezuml/blog/?postid=992)
-* [The Thing of Software Development](http://michaelfeathers.typepad.com/michael_feathers_blog/2011/01/the-thing-of-software-development.html)
+* [The Thing of Software Development - Michael Feathers](http://michaelfeathers.typepad.com/michael_feathers_blog/2011/01/the-thing-of-software-development.html)
 * [Zen and the art of software development - Sean Hanly](http://www.bcs.org/content/ConWebDoc/6631)
 
 ### :movie_camera: Presentations
@@ -50,7 +50,7 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Selling Software Craftsmanship in the Enterprise](https://vimeo.com/8104332)
 * [Growing and Fostering Software Craftsmanship](https://vimeo.com/12244804)
 * [A software craftsman gets things done!](https://vimeo.com/74365900)
-* [The Software Craftsmanship Imperative](https://www.youtube.com/watch?v=fdeLcImL7e4)
+* [The Software Craftsmanship Imperative](https://www.youtube.com/watch?v=fdeLcImL7e4)
 * [Software Craftsmanship](https://www.youtube.com/watch?v=-czaKO_8jc4)
 
 ### :notebook_with_decorative_cover: Blogs
