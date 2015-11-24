@@ -74,3 +74,4 @@ This should be a community driven effort to spread the manifesto and show respec
 * [ByCraft: Software Craftsmanship and DevOps Conference](http://bycraft.by)
 * [CraftSummit](http://www.craftsummit.org)
 * [Software Craftsmanship Meetups](http://software-craftsmanship.meetup.com)
+* [Software Craftsmanship Google Group](https://groups.google.com/forum/#!forum/software_craftsmanship)
