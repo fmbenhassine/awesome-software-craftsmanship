@@ -47,6 +47,8 @@ This should be a community driven effort to spread the manifesto and show respec
 
 * [Craftsmanship and Ethics](https://www.youtube.com/playlist?list=PLE7AF2F360F1C0BF3)
 * [Principles of Craftsmanship](https://vimeo.com/19053463)
+* [Are You a SOLID Coder?](http://www.infoq.com/presentations/solid-principles)
+* [Patterns, Code Smells, and the Pragmatic Programmer](http://www.infoq.com/presentations/the-reading-list)
 * [The Technical Debt Trap](https://vimeo.com/97507576)
 * [Reinventing software quality](https://vimeo.com/43612920)
 * [Selling Software Craftsmanship in the Enterprise](https://vimeo.com/8104332)
