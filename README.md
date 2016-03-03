@@ -66,11 +66,18 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Swanseacon blog](http://swanseacon.co.uk/blog/)
 
 ### :school: Conferences and meetups
-
+* SoCraTes: Software Craftsmanship and Testing Conferences
+  * [SoCraTes Germany](https://www.socrates-conference.de)
+  * [SoCraTes Canaries](http://www.socrates-conference.es/)
+  * [SoCraTes Day Switzerland](http://socrates-day.ch/)
+  * [SoCraTes France](http://socrates-fr.github.io/)
+  * [SoCraTes UK](http://socratesuk.org/)
+  * [SoCraTes Italy](http://www.socrates-conference.it/)
 * [Software Craftsmanship North America](http://softwarecraftsmanship.org)
 * [Software Craftsmanship 2016](http://codemanship.co.uk/parlezuml/blog/?sectionid=27)
 * [Craft-Conf](http://craft-conf.com)
-* [International Software Craftsmanship and Testing Conference](https://www.socrates-conference.de)
+* [I T.A.K.E. Unconference](http://itakeunconf.com/)
+* [CodeFreeze](http://www.codefreeze.fi/)
 * [Agile Development & Software Craftsmanship conference](http://swanseacon.co.uk)
 * [DevTernity: Conference for IT professionals who care about software craftsmanship](http://devternity.com)
 * [ByCraft: Software Craftsmanship and DevOps Conference](http://bycraft.by)
