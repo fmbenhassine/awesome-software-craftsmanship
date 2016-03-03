@@ -65,7 +65,7 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Craftsmanship Academy](http://craftsmanshipacademy.com/blog/)
 * [Swanseacon blog](http://swanseacon.co.uk/blog/)
 
-### :school: Conferences and meetups
+### :school: Conferences
 * SoCraTes: Software Craftsmanship and Testing Conferences
   * [SoCraTes Germany](https://www.socrates-conference.de)
   * [SoCraTes Canaries](http://www.socrates-conference.es/)
@@ -82,5 +82,9 @@ This should be a community driven effort to spread the manifesto and show respec
 * [DevTernity: Conference for IT professionals who care about software craftsmanship](http://devternity.com)
 * [ByCraft: Software Craftsmanship and DevOps Conference](http://bycraft.by)
 * [CraftSummit](http://www.craftsummit.org)
+
+### :school: Communities
 * [Software Craftsmanship Meetups](http://software-craftsmanship.meetup.com)
 * [Software Craftsmanship Google Group](https://groups.google.com/forum/#!forum/software_craftsmanship)
+* [Slack Community](http://slack.softwarecraftsmanship.org/)
+* [Newsletter](https://scnewsletter.firebaseapp.com/)
