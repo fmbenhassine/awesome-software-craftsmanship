@@ -88,3 +88,6 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Software Craftsmanship Google Group](https://groups.google.com/forum/#!forum/software_craftsmanship)
 * [Slack Community](http://slack.softwarecraftsmanship.org/)
 * [Newsletter](https://scnewsletter.firebaseapp.com/)
+
+### :family: Twitter accounts
+* [List of interesting people](https://twitter.com/rivieraswcraft/lists/softwarecraftsmanship)
