@@ -90,4 +90,16 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Newsletter](https://scnewsletter.firebaseapp.com/)
 
 ### :family: Twitter accounts
-* [List of interesting people](https://twitter.com/rivieraswcraft/lists/softwarecraftsmanship)
+* [CleanCode](https://twitter.com/@CleanCode)
+* [CleanCodeSchool](https://twitter.com/@CleanCodeSchool)
+* [CleanSprings](https://twitter.com/@cleansprings)
+* [MarcusBiel](https://twitter.com/@marcusbiel)
+* [SolidCodeSols](https://twitter.com/@solidcodesols)
+* [Software Craftsmanship List](https://twitter.com/rivieraswcraft/lists/softwarecraftsmanship)
+* [SoCraTes_UK](https://twitter.com/@SoCraTes_UK)
+* [SoCraTes_BE](https://twitter.com/@SoCraTes_BE)
+* [SoCraTes_FR](https://twitter.com/@SoCraTes_FR)
+* [SoCraTes_IT](https://twitter.com/@SoCraTes_Italy)
+* [Socrates_2016](https://twitter.com/@socrates_2016)
+* [TheCleanCoders](https://twitter.com/@thecleancoders)
+* [UncleBobMartin](https://twitter.com/@unclebobmartin)
