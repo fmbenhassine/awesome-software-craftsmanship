@@ -103,3 +103,4 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Socrates_2016](https://twitter.com/@socrates_2016)
 * [TheCleanCoders](https://twitter.com/@thecleancoders)
 * [UncleBobMartin](https://twitter.com/@unclebobmartin)
+* [Crafting Software](https://twitter.com/craftingsw)
