@@ -68,7 +68,7 @@ This should be a community driven effort to spread the manifesto and show respec
 ### :school: Conferences
 * SoCraTes: Software Craftsmanship and Testing Conferences
   * [SoCraTes Germany](https://www.socrates-conference.de)
-  * [SoCraTes Canaries](http://www.socrates-conference.es/)
+  * [SoCraTes Canaries](http://socracan.com/)
   * [SoCraTes Day Switzerland](http://socrates-day.ch/)
   * [SoCraTes France](http://socrates-fr.github.io/)
   * [SoCraTes UK](http://socratesuk.org/)
