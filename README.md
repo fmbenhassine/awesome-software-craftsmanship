@@ -30,6 +30,7 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Edition-Bentley/dp/0201657880)
 * [Coders at Work: Reflections on the Craft of Programming](http://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483)
 * [Team Geek: A Software Developer's Guide to Working Well with Others](http://www.amazon.com/Team-Geek-Software-Developers-Working/dp/1449302440)
+* [Coding: On Software Design Process](https://www.amazon.com/Coding-Software-Process-Jonathan-Locke/dp/0615404820)
 
 ### :memo: Articles
 
