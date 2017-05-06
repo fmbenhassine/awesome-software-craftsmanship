@@ -56,6 +56,7 @@ This should be a community driven effort to spread the manifesto and show respec
 * [A software craftsman gets things done!](https://vimeo.com/74365900)
 * [The Software Craftsmanship Imperative](https://www.youtube.com/watch?v=fdeLcImL7e4)
 * [Software Craftsmanship](https://www.youtube.com/watch?v=-czaKO_8jc4)
+* [Beyond Software Craftsmanship](https://www.youtube.com/watch?v=AEtCEt44vlE)
 
 ### :notebook_with_decorative_cover: Blogs
 
