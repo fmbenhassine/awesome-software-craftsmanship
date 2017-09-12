@@ -30,6 +30,7 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Edition-Bentley/dp/0201657880)
 * [Coders at Work: Reflections on the Craft of Programming](http://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483)
 * [Team Geek: A Software Developer's Guide to Working Well with Others](http://www.amazon.com/Team-Geek-Software-Developers-Working/dp/1449302440)
+* [Coding: On Software Design Process](https://www.amazon.com/Coding-Software-Process-Jonathan-Locke/dp/0615404820)
 
 ### :memo: Articles
 
@@ -56,6 +57,7 @@ This should be a community driven effort to spread the manifesto and show respec
 * [A software craftsman gets things done!](https://vimeo.com/74365900)
 * [The Software Craftsmanship Imperative](https://www.youtube.com/watch?v=fdeLcImL7e4)
 * [Software Craftsmanship](https://www.youtube.com/watch?v=-czaKO_8jc4)
+* [Beyond Software Craftsmanship](https://www.youtube.com/watch?v=AEtCEt44vlE)
 
 ### :notebook_with_decorative_cover: Blogs
 
@@ -68,7 +70,7 @@ This should be a community driven effort to spread the manifesto and show respec
 ### :school: Conferences
 * SoCraTes: Software Craftsmanship and Testing Conferences
   * [SoCraTes Germany](https://www.socrates-conference.de)
-  * [SoCraTes Canaries](http://www.socrates-conference.es/)
+  * [SoCraTes Canaries](http://socracan.com/)
   * [SoCraTes Day Switzerland](http://socrates-day.ch/)
   * [SoCraTes France](http://socrates-fr.github.io/)
   * [SoCraTes UK](http://socratesuk.org/)
@@ -103,3 +105,4 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Socrates_2016](https://twitter.com/@socrates_2016)
 * [TheCleanCoders](https://twitter.com/@thecleancoders)
 * [UncleBobMartin](https://twitter.com/@unclebobmartin)
+* [Crafting Software](https://twitter.com/craftingsw)
