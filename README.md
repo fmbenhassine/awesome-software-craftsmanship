@@ -115,3 +115,7 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Dave Thomas](https://twitter.com/pragdave)
 
 
+
+### :headphones: Podcasts
+* [Legacy Code Rocks](https://www.legacycode.rocks/)
+* [Software Engineering Radio](https://www.se-radio.net/)
