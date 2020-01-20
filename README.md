@@ -11,7 +11,7 @@ This should be a community driven effort to spread the manifesto and show respec
 * [The Pragmatic Programmer: From Journeyman to Master](https://pragprog.com/book/tpp/the-pragmatic-programmer)
 * [Software Craftsmanship: The New Imperative](http://www.amazon.com/exec/obidos/ASIN/0201733862)
 * [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-* [Soft Skills: The software developer's life manual](http://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397) :headphones:
+* [Soft Skills: The software developer's life manual](http://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
 * [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 * [Beyond Legacy Code](https://pragprog.com/book/dblegacy/beyond-legacy-code)
 * [Refactoring: Improving the Design of Existing Code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
