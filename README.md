@@ -114,8 +114,7 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Andy Hunt](https://twitter.com/PragmaticAndy)
 * [Dave Thomas](https://twitter.com/pragdave)
 
-
-
 ### :headphones: Podcasts
 * [Legacy Code Rocks](https://www.legacycode.rocks/)
 * [Software Engineering Radio](https://www.se-radio.net/)
+* [Soft Skills Engineering](https://softskills.audio/)
