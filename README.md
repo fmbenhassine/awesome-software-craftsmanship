@@ -106,3 +106,7 @@ This should be a community driven effort to spread the manifesto and show respec
 * [TheCleanCoders](https://twitter.com/@thecleancoders)
 * [UncleBobMartin](https://twitter.com/@unclebobmartin)
 * [Crafting Software](https://twitter.com/craftingsw)
+
+### :headphones: Podcasts
+* [Legacy Code Rocks](https://www.legacycode.rocks/)
+* [Software Engineering Radio](https://www.se-radio.net/)
