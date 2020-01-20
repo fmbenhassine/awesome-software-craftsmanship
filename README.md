@@ -106,3 +106,8 @@ This should be a community driven effort to spread the manifesto and show respec
 * [TheCleanCoders](https://twitter.com/@thecleancoders)
 * [UncleBobMartin](https://twitter.com/@unclebobmartin)
 * [Crafting Software](https://twitter.com/craftingsw)
+* [Pragmatic Programmers](https://twitter.com/pragprog)
+* [Andy Hunt](https://twitter.com/PragmaticAndy)
+* [Dave Thomas](https://twitter.com/pragdave)
+
+
