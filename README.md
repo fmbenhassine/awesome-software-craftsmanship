@@ -97,6 +97,7 @@ This should be a community driven effort to spread the manifesto and show respec
 * [CleanCode](https://twitter.com/@CleanCode)
 * [CleanCodeSchool](https://twitter.com/@CleanCodeSchool)
 * [CleanSprings](https://twitter.com/@cleansprings)
+* [Code Wisdom](https://twitter.com/CodeWisdom)
 * [MarcusBiel](https://twitter.com/@marcusbiel)
 * [SolidCodeSols](https://twitter.com/@solidcodesols)
 * [Software Craftsmanship List](https://twitter.com/rivieraswcraft/lists/softwarecraftsmanship)
