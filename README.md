@@ -57,7 +57,7 @@ This should be a community driven effort to spread the manifesto and show respec
 * [A software craftsman gets things done!](https://vimeo.com/74365900)
 * [The Software Craftsmanship Imperative](https://www.youtube.com/watch?v=fdeLcImL7e4)
 * [Software Craftsmanship](https://www.youtube.com/watch?v=-czaKO_8jc4)
-* [Beyond Software Craftsmanship](https://www.youtube.com/watch?v=AEtCEt44vlE)
+* [Beyond Software Craftsmanship](https://dev.tube/video/AEtCEt44vlE)
 
 ### :notebook_with_decorative_cover: Blogs
 
@@ -71,7 +71,9 @@ This should be a community driven effort to spread the manifesto and show respec
 * SoCraTes: Software Craftsmanship and Testing Conferences
   * [SoCraTes Germany](https://www.socrates-conference.de)
   * [SoCraTes Canaries](http://socracan.com/)
-  * [SoCraTes Day Switzerland](http://socrates-day.ch/)
+  * [SoCraTes Austria](https://socrates-conference.at)
+  * [SoCraTes Day Switzerland](http://socrates-day.ch)
+  * [SoCraTes Conference Switzerland](https://socrates-conference.ch)
   * [SoCraTes France](http://socrates-fr.github.io/)
   * [SoCraTes UK](http://socratesuk.org/)
   * [SoCraTes Italy](http://www.socrates-conference.it/)
@@ -98,14 +100,19 @@ This should be a community driven effort to spread the manifesto and show respec
 * [MarcusBiel](https://twitter.com/@marcusbiel)
 * [SolidCodeSols](https://twitter.com/@solidcodesols)
 * [Software Craftsmanship List](https://twitter.com/rivieraswcraft/lists/softwarecraftsmanship)
+* [Socrates_DE](https://twitter.com/@socrates_conf)
 * [SoCraTes_UK](https://twitter.com/@SoCraTes_UK)
 * [SoCraTes_BE](https://twitter.com/@SoCraTes_BE)
 * [SoCraTes_FR](https://twitter.com/@SoCraTes_FR)
 * [SoCraTes_IT](https://twitter.com/@SoCraTes_Italy)
-* [Socrates_2016](https://twitter.com/@socrates_2016)
+* [SoCraTes_AT](https://twitter.com/@SoCraTes_AT)
+* [SoCraTes_CH](https://twitter.com/@SoCraTes_CH)
 * [TheCleanCoders](https://twitter.com/@thecleancoders)
 * [UncleBobMartin](https://twitter.com/@unclebobmartin)
 * [Crafting Software](https://twitter.com/craftingsw)
+* [Pragmatic Programmers](https://twitter.com/pragprog)
+* [Andy Hunt](https://twitter.com/PragmaticAndy)
+* [Dave Thomas](https://twitter.com/pragdave)
 
 ### :headphones: Podcasts
 * [Legacy Code Rocks](https://www.legacycode.rocks/)
