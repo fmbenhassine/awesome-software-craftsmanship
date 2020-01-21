@@ -113,3 +113,4 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Legacy Code Rocks](https://www.legacycode.rocks/)
 * [Software Engineering Radio](https://www.se-radio.net/)
 * [Soft Skills Engineering](https://softskills.audio/)
+* [Café Craft](https://www.cafe-craft.fr/) (🇫🇷)
