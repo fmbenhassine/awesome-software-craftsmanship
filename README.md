@@ -24,7 +24,7 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Practices of an Agile Developer](https://pragprog.com/book/pad/practices-of-an-agile-developer)
 * [Pragmatic Thinking and Learning](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)
 * [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](http://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382)
-* [The Passionate Programmer: Creating a Remarkable Career in Software Development](http://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/1934356344)
+* [The Passionate Programmer: Creating a Remarkable Career in Software Development](https://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic-ebook/dp/B00AYQNR5U/)
 * [Implementation Patterns](http://www.amazon.com/Implementation-Patterns-Kent-Beck/dp/0321413091)
 * [The Mythical Man-Month: Essays on Software Engineering](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959)
 * [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Edition-Bentley/dp/0201657880)
@@ -35,7 +35,6 @@ This should be a community driven effort to spread the manifesto and show respec
 ### :memo: Articles
 
 * [Becoming Software Craftsmen - Ben Linders](http://www.infoq.com/news/2014/11/becoming-software-craftsmen)
-* [Building Software Craftsmen - Steve Ropa](http://blogs.versionone.com/agile_management/2014/08/25/building-software-craftsmen/)
 * [Craftmanship And The Crevasse - Martin Fowler](http://martinfowler.com/bliki/CraftmanshipAndTheCrevasse.html)
 * [The Codesmith - Chris ODell](http://foxdellfolio.com/the-codesmith/)
 * [On Technical Debt and Craftsmanship - Chris ODell](http://foxdellfolio.com/on-technical-debt-and-craftsmanship/)
@@ -63,7 +62,7 @@ This should be a community driven effort to spread the manifesto and show respec
 
 * [Clean Coder](http://blog.cleancoder.com)
 * [Clean Coders](https://cleancoders.com)
-* [Codemanship](http://www.codemanship.co.uk/blog.html)
+* [Codemanship](http://www.codemanship.co.uk/)
 * [Craftsmanship Academy](http://craftsmanshipacademy.com/blog/)
 * [Swanseacon blog](http://swanseacon.co.uk/blog/)
 
@@ -84,14 +83,11 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Craft-Conf](http://craft-conf.com)
 * [Agile Development & Software Craftsmanship conference](http://swanseacon.co.uk)
 * [DevTernity: Conference for IT professionals who care about software craftsmanship](http://devternity.com)
-* [ByCraft: Software Craftsmanship and DevOps Conference](http://bycraft.by)
-* [CraftSummit](http://www.craftsummit.org)
 
 ### :school: Communities
 * [Software Craftsmanship Meetups](http://software-craftsmanship.meetup.com)
 * [Software Craftsmanship Google Group](https://groups.google.com/forum/#!forum/software_craftsmanship)
 * [Slack Community](http://slack.softwarecraftsmanship.org/)
-* [Newsletter](https://scnewsletter.firebaseapp.com/)
 
 ### :family: Twitter accounts
 * [CleanCode](https://twitter.com/@CleanCode)
@@ -99,8 +95,6 @@ This should be a community driven effort to spread the manifesto and show respec
 * [CleanSprings](https://twitter.com/@cleansprings)
 * [Code Wisdom](https://twitter.com/CodeWisdom)
 * [MarcusBiel](https://twitter.com/@marcusbiel)
-* [SolidCodeSols](https://twitter.com/@solidcodesols)
-* [Software Craftsmanship List](https://twitter.com/rivieraswcraft/lists/softwarecraftsmanship)
 * [Socrates_DE](https://twitter.com/@socrates_conf)
 * [SoCraTes_UK](https://twitter.com/@SoCraTes_UK)
 * [SoCraTes_BE](https://twitter.com/@SoCraTes_BE)
