@@ -65,6 +65,7 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Codemanship](http://www.codemanship.co.uk/)
 * [Craftsmanship Academy](http://craftsmanshipacademy.com/blog/)
 * [Swanseacon blog](http://swanseacon.co.uk/blog/)
+* [Artisan Développeur blog](https://artisandeveloppeur.fr/blog/)
 
 ### :school: Conferences
 * SoCraTes: Software Craftsmanship and Testing Conferences
@@ -108,9 +109,11 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Pragmatic Programmers](https://twitter.com/pragprog)
 * [Andy Hunt](https://twitter.com/PragmaticAndy)
 * [Dave Thomas](https://twitter.com/pragdave)
+* [Artisan Développeur](https://twitter.com/art_developpeur)
 
 ### :headphones: Podcasts
 * [Legacy Code Rocks](https://www.legacycode.rocks/)
 * [Software Engineering Radio](https://www.se-radio.net/)
 * [Soft Skills Engineering](https://softskills.audio/)
 * [Café Craft](https://www.cafe-craft.fr/) (🇫🇷)
+* [Artisan Développeur](https://artisandeveloppeur.fr/podcast/) (🇫🇷)
