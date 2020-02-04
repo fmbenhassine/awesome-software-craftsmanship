@@ -117,3 +117,5 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Soft Skills Engineering](https://softskills.audio/)
 * [Café Craft](https://www.cafe-craft.fr/) (🇫🇷)
 * [Artisan Développeur](https://artisandeveloppeur.fr/podcast/) (🇫🇷)
+* [Agile in 3 minutes](https://agilein3minut.es/)
+* [Codurance Talks](https://codurancetalks.podbean.com/)
