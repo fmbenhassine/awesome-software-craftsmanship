@@ -8,7 +8,7 @@ This should be a community driven effort to spread the manifesto and show respec
 ### :books: Books
 
 * [The Software Craftsman: Professionalism, Pragmatism, Pride](http://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501)
-* [The Pragmatic Programmer: From Journeyman to Master](https://pragprog.com/book/tpp/the-pragmatic-programmer)
+* [The Pragmatic Programmer: From Journeyman to Master](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 * [Software Craftsmanship: The New Imperative](http://www.amazon.com/exec/obidos/ASIN/0201733862)
 * [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 * [Soft Skills: The software developer's life manual](http://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397)
