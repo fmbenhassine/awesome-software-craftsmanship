@@ -68,6 +68,7 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Craftsmanship Academy](http://craftsmanshipacademy.com/blog/)
 * [Swanseacon blog](http://swanseacon.co.uk/blog/)
 * [Artisan Développeur blog](https://artisandeveloppeur.fr/blog/)
+* [Codemanship blog](https://codemanship.wordpress.com)
 
 ### :school: Conferences
 * SoCraTes: Software Craftsmanship and Testing Conferences
@@ -81,7 +82,6 @@ This should be a community driven effort to spread the manifesto and show respec
   * [I T.A.K.E. Unconference](http://itakeunconf.com/)
   * [CodeFreeze](http://www.codefreeze.fi/)
 * [Software Craftsmanship North America](http://softwarecraftsmanship.org)
-* [Software Craftsmanship 2016](http://codemanship.co.uk/parlezuml/blog/?sectionid=27)
 * [Craft-Conf](http://craft-conf.com)
 * [Agile Development & Software Craftsmanship conference](http://swanseacon.co.uk)
 * [DevTernity: Conference for IT professionals who care about software craftsmanship](http://devternity.com)
