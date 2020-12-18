@@ -20,6 +20,8 @@ This should be a community driven effort to spread the manifesto and show respec
 * [The Clean Coder: A Code of Conduct for Professional Programmers](http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 * [97 Things Every Programmer Should Know](http://www.amazon.com/Things-Every-Programmer-Should-Know/dp/0596809484)
 * [97 Things Every Software Architect Should Know](http://www.amazon.com/Things-Every-Software-Architect-Should/dp/059652269X)
+* [97 Things Every Project Manager Should Know](https://www.amazon.com/Things-Every-Project-Manager-Should/dp/0596804164)
+* [97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should/dp/1492050903)
 * [The Developer’s Code](https://pragprog.com/book/kcdc/the-developer-s-code)
 * [Practices of an Agile Developer](https://pragprog.com/book/pad/practices-of-an-agile-developer)
 * [Pragmatic Thinking and Learning](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)
